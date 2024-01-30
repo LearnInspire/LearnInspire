@@ -14,7 +14,7 @@
 
 - 🤔 Currently exploring newer technologies and developing software solutions and quick hacks.
 
-- 📫 How to reach me **dollyy121@gmail.com**
+- 📫 How to reach me **dollyy1201@gmail.com**
 
 - ⚡ Fun fact **I love eating & sleeping**
 
