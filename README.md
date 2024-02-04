@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dollyy1201@gmail.com**
 
-- ⚡ Fun fact **I love eating & sleeping**
+- ⚡ Fun fact **I love eating & travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
