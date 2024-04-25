@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👀 I’m interested in Data Science, Machine Learning, AI, BlockChain, Cloud Computing & Web Development.
+- 👀 I’m interested in Data Science, Machine Learning, AI, BlockChain, Cloud Computing & Full Stack Web Development.
 
 - 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 
